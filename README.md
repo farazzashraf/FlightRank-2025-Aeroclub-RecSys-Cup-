@@ -1,6 +1,6 @@
 # AeroClub RecSys 2025 — Flight Ranking Challenge
 
-[![Kaggle Competition](https://www.kaggle.com/competitions/aeroclub-recsys-2025/overview)
+[Kaggle Competition](https://www.kaggle.com/competitions/aeroclub-recsys-2025/overview)
 
 ---
 
